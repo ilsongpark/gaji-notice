@@ -1,0 +1,10 @@
+GAJI\StatusChanged.class
+GAJI\AbstractEvent.class
+GAJI\NoticeApplication.class
+GAJI\NoticeRepository.class
+GAJI\NoticeController.class
+GAJI\AbstractEvent$1.class
+GAJI\Notice.class
+GAJI\Sent.class
+GAJI\config\kafka\KafkaProcessor.class
+GAJI\PolicyHandler.class
